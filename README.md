@@ -1,6 +1,6 @@
 # mqtt_matlab_interface
 MATLAB interface to MQTT, based on the [Paho Java client](https://www.eclipse.org/paho/clients/java/)
-
+Based on: https://github.com/gnotomista/mqtt_matlab_interface
 Bare bones implementation which allows to connect to an mqtt broker (e.g. https://mosquitto.org/), publish and subscribe to multiple topics.
 
 To run mosquitto:
