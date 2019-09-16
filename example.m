@@ -5,7 +5,6 @@ javaaddpath('jars/org.eclipse.paho.client.mqttv3-1.2.0.jar')
 javaaddpath('jars/iMqttClient.jar')
 addpath(genpath(pwd))
 
-% Robotarium(IP: '192.168.1.8' Port: 1884)
 % Localhost(IP: 'localhost', Port: 1883')
 
 % create mqtt interface object
